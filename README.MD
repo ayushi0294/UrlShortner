@@ -88,7 +88,7 @@ This project provides a URL shortener service with features like:
 
 ## Setup & Installation
 ```sh
-git clone https://github.com/your-repo/url-shortener.git
+git clone https://github.com/ayushi0294/UrlShortner.git
 cd url-shortener
 npm install
 ```
